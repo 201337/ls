@@ -6,7 +6,6 @@ function validate(){
 
 	if ( username == "laptop" && password == "040821"){
 		window.location.href = "/LosSantosZGINIE1337/brawo.html";
-		return false;
 	}
 	else{
 		alert("Niepoprawne dane logowania.");
