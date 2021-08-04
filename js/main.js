@@ -6,7 +6,7 @@ function validate(){
 
 	if ( username == "laptop" && password == "040821"){
 		alert ("Gratulacje! Za chwilę zostaniesz przeniesiony.");
-		window.location = "/LosSantosZGINIE/1337/brawo.html";
+		window.location = "/LosSantosZGINIE1337/brawo.html";
 		return false;
 	}
 	else{
