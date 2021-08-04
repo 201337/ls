@@ -5,8 +5,7 @@ function validate(){
 	let password = document.getElementById("password").value;
 
 	if ( username == "laptop" && password == "040821"){
-		alert ("Gratulacje! Za chwilę zostaniesz przeniesiony.");
-		window.location = "/LosSantosZGINIE1337/brawo.html";
+		window.location.replace = "/LosSantosZGINIE1337/brawo.html";
 		return false;
 	}
 	else{
