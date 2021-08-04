@@ -5,7 +5,7 @@ function validate(){
 	let password = document.getElementById("password").value;
 
 	if ( username == "laptop" && password == "040821"){
-		window.location.replace = "brawo.html";
+		window.location.replace = "LosSantosZGINIE1337/brawo.html";
 	}
 	else{
 		alert("Niepoprawne dane logowania.");
