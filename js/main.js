@@ -5,7 +5,7 @@ function validate(){
 	let password = document.getElementById("password").value;
 
 	if ( username == "laptop" && password == "040821"){
-		window.location.replace = "/LosSantosZGINIE1337/brawo.html";
+		window.location.href = "/LosSantosZGINIE1337/brawo.html";
 		return false;
 	}
 	else{
